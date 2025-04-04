@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Desafio proposto pelo professor de Coding-Mobile",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "daemon": "^1.1.0",
+    "express": "^5.1.0",
+    "init": "^0.1.2",
+    "mongoose": "^8.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Walison Brandão",
+  "license": "ISC"
+}
